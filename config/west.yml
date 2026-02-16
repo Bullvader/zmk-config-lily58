@@ -11,4 +11,4 @@ manifest:
   self:
     path: config
   defaults:
-    revision: v0.3
+    revision: main
